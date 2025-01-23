@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Karla1702
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Karla1702/Karla1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+h1{/*Se aplica estilo al encabezado h1*/
+    color: blueviolet; /*Se cambia el color de la fuente a azul*/
+}
+h2{/*Se aplica estilo al subencabezado h2*/
+    font-size: 24px; /*el encabezo es de 24px*/
+}
+h3{/*Se aplica estilo al encabezado de tercer nivel*/
+    margin-bottom: 10px;/*el encabezo es de 10px*/
+}
+p{/*Se aplica estilo al párrafo*/
+    background-color: beige; /*se cambia el color del párrafo*/
+    color:brown /* se cambia el color de la laetra del párrafo*/
+}
+a{/*Se aplica estilo al enlace*/
+    text-decoration: none; /*no tiene la linea del enlace*/
+    color: chartreuse; /*El enlace es color verde lima*/
+}
